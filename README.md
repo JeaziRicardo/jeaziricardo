@@ -9,7 +9,7 @@
 <div>
 
 ## About me 🚀
-#### I'm a web dev student at [Trybe](https://www.betrybe.com/).<br>Lover and admirer of all technology that does humanity good.
+#### I'm a dev student at [Trybe](https://www.betrybe.com/).<br>Lover and admirer of all technology that does humanity good.
 😉✌️
 </div>
 
