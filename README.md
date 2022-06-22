@@ -9,7 +9,7 @@
 <div>
 
 ## Sobre 🚀
-#### Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).<br>Amo e admiro tudo de bom que a tecnologia feaz pela humanidade.
+#### Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).<br>Amo e admiro tudo de bom que a tecnologia faz pela humanidade.
 😉✌️
 </div>
 
