@@ -1,5 +1,5 @@
-# Hi, I am Jeazi Ricardo 👋
-### Welcome to my profile❕ 
+# Olá, eu sou Jeazi Ricardo 👋
+### Bem-vindo ao meu perfil❕ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeaziricardo&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeaziricardo&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,14 +8,14 @@
 
 <div>
 
-## About me 🚀
-#### I'm a web development student at [Trybe](https://www.betrybe.com/).<br>Lover and admirer of all technology that does humanity good.
+## Sobre 🚀
+#### Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).<br>Amo e admiro tudo de bom que a tecnologia feaz pela humanidade.
 😉✌️
 </div>
 
 <div style="display: inline_block"><br>
 
-  ## Skills 🛠
+  ## Habilidades 🛠
 
   <img align="center" alt="Jeazi-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Jeazi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,7 @@
   <img align="center" alt="jeazi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jeazi-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="jeazi-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="jeazi-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="jeazi-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
@@ -30,7 +31,7 @@
 
 <div>
 
-## Networks 🔗
+## Minhas Redes 🔗
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeaziricardo/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeaziricardo/)
