@@ -24,8 +24,12 @@
   <img align="center" alt="jeazi-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="jeazi-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="jeazi-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="jeazi-Jest" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" />
+  <img align="center" alt="jeazi-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" />
   <img align="center" alt="jeazi-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <br>
+  <br>
+  <img align="center" alt="jeazi-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" alt="jeazi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 <br>
