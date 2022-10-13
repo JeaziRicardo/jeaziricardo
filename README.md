@@ -1,4 +1,4 @@
-# Olá, eu sou Jeazi Ricardo 👋
+# Olá, eu sou Jeazi Ricardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
 ### Bem-vindo ao meu perfil❕ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeaziricardo&show_icons=true&theme=github_dark)
