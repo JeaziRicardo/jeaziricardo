@@ -8,8 +8,8 @@
 ### Bem-vindo ao meu perfil❕ 
 
 <div>
+  <img alt="GitHub Details" width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeaziricardo&theme=github_dark" />
   <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeaziricardo&theme=github_dark" />
- <img align="right" alt="GitHub Details" width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeaziricardo&theme=github_dark" />
 </div>
 
 <br>
