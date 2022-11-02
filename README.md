@@ -1,15 +1,28 @@
+<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
+
+<div>
+  <img align="center" alt="Header" src="https://user-images.githubusercontent.com/96850428/199572058-36e72024-a5c5-46db-8084-a59e9cfeb91a.png" />
+</div>
+
 # Olá, eu sou Jeazi Ricardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
 ### Bem-vindo ao meu perfil❕ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeaziricardo&show_icons=true&theme=github_dark)
+<div>
+  <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeaziricardo&theme=github_dark" />
+ <img align="right" alt="GitHub Details" width="600" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeaziricardo&theme=github_dark" />
+</div>
 
 <br>
 
 <div>
 
 ## Sobre 🚀
-#### Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).<br>Amo e admiro tudo de bom que a tecnologia faz pela humanidade.
-😉✌️
+
+<div align="justify">
+  Tenho 28 anos, sou de <b><i>Sergipe</i></b> e entrei de cabeça na área de programação no final de 2021.</i><br/>Atualmente estudo <b><i>Desenvolvimento Web</i></b> e sou <b><i>Summer</i></b> no time de Currículo Front-end na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.<br/>
+  😉✌️
+</div>
+
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,6 +45,7 @@
   <img align="center" alt="jeazi-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="jeazi-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="jeazi-Mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="jeazi-Mocha" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 </div>
 
 <br>
@@ -42,11 +56,15 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeaziricardo/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeaziricardo/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jzricardod)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jzricardod)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GH2NFGAE6F4CD1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeaziricardo3000@gmail.com)
 </div>
 
+<br>
+
   ![Snake animation](https://github.com/jeaziricardo/jeaziricardo/blob/output/github-contribution-grid-snake.svg)
-  
+
 -----
 
 <div>
