@@ -2,7 +2,6 @@
 ### Bem-vindo ao meu perfil❕ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeaziricardo&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeaziricardo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -17,19 +16,22 @@
 
   ## Habilidades 🛠
 
-  <img align="center" alt="Jeazi-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Jeazi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeazi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jeazi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jeazi-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="jeazi-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="jeazi-Redux" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
-  <img align="center" alt="jeazi-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" />
-  <img align="center" alt="jeazi-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Jeazi-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Jeazi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jeazi-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="jeazi-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="jeazi-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="jeazi-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="jeazi-Redux" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
+  <img align="center" alt="jeazi-RTL" height="50" width="60" src="https://testing-library.com/img/octopus-128x128.png" />
+  <img align="center" alt="jeazi-Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <br>
   <br>
-  <img align="center" alt="jeazi-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" alt="jeazi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="jeazi-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="jeazi-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="jeazi-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="jeazi-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="jeazi-Mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
 <br>
