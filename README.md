@@ -7,9 +7,9 @@
 # Olá, eu sou Jeazi Ricardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
 ### Bem-vindo ao meu perfil❕ 
 
-<div>
-  <img alt="GitHub Details" width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeaziricardo&theme=github_dark" />
-  <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeaziricardo&theme=github_dark" />
+<div align="center">
+  <img alt="GitHub Details" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeaziricardo&theme=github_dark" />
+  <img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeaziricardo&theme=github_dark" />
 </div>
 
 <br>
