@@ -46,6 +46,15 @@
 </div>
 
   ![Snake animation](https://github.com/jeaziricardo/jeaziricardo/blob/output/github-contribution-grid-snake.svg)
+  
+-----
+
+<div>
+| Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
+| Última atualização: 02/11/2022
+</div>
+
+-----
 
 <!--
 **JeaziRicardo/jeaziricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
