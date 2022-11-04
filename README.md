@@ -21,7 +21,7 @@
 ## Sobre 🚀
 
 <div align="justify">
-  Tenho 28 anos, sou de <b><i>Sergipe</i></b> e entrei de cabeça na área de programação no final de 2021.</i><br/>Atualmente estudo <b><i>Desenvolvimento Web</i></b> e sou <b><i>Summer</i></b> no time de Currículo Front-end na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.<br/>
+  Tenho 28 anos, sou de <b><i>Sergipe</i></b> e entrei de cabeça na área de programação no final de 2021.</i><br/>Atualmente estudo <b><i>Desenvolvimento Web</i></b> e estou <b><i>Summer</i></b> no time de Currículo Front-end na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.<br/>
   😉✌️
 </div>
 
