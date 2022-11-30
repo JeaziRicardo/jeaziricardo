@@ -71,7 +71,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 02/11/2022
+| Última atualização: 30/11/2022
 </div>
 
 -----
