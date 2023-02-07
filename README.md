@@ -6,6 +6,8 @@
 
 # Olá, eu sou Jeazi Ricardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=jeaziricardo&label=Views&color=0e75b6&style=flat" alt="JeaziRicardoViews" /> </span>
+
 <div align="center">
   
 ### Bem-vindo(a) ao meu perfil❕
@@ -71,7 +73,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 30/11/2022
+| Última atualização: 07/02/2023
 </div>
 
 -----
