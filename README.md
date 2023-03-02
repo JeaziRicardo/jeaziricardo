@@ -73,7 +73,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 07/02/2023
+| Última atualização: 01/03/2023
 </div>
 
 -----
