@@ -1,7 +1,9 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser. Mas se puder, faça as referências e deixe uma estrelinha. 🙂 -->
 
 <div>
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
   <img align="center" alt="Header" src="https://user-images.githubusercontent.com/96850428/199572058-36e72024-a5c5-46db-8084-a59e9cfeb91a.png" />
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </div>
 
 # Olá, eu sou Jeazi Ricardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
