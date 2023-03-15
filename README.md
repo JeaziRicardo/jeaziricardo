@@ -34,25 +34,60 @@
 <div style="display: inline_block"><br>
 
   ## Habilidades 🛠
-
-  <img align="center" alt="Jeazi-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Jeazi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeazi-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="jeazi-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="jeazi-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="jeazi-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="jeazi-Redux" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
-  <img align="center" alt="jeazi-RTL" height="50" width="60" src="https://testing-library.com/img/octopus-128x128.png" />
-  <img align="center" alt="jeazi-Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img align="center" alt="Jeazi-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img align="center" alt="Jeazi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img align="center" alt="Jeazi-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img align="center" alt="jeazi-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="center" alt="jeazi-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img align="center" alt="jeazi-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img align="center" alt="jeazi-Redux" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
+  </a>
+  <a href="https://testing-library.com/" target="_blank">
+    <img align="center" alt="jeazi-RTL" height="50" width="60" src="https://testing-library.com/img/octopus-128x128.png" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img align="center" alt="jeazi-Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  </a>
   <br>
   <br>
-  <img align="center" alt="jeazi-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="jeazi-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="jeazi-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="jeazi-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="jeazi-Mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="jeazi-Mocha" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img align="center" alt="jeazi-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="jeazi-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img align="center" alt="jeazi-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img align="center" alt="jeazi-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img align="center" alt="jeazi-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="center" alt="jeazi-Mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </a>
+  <a href="https://mochajs.org/" target="_blank">
+    <img align="center" alt="jeazi-Mocha" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img align="center" alt="jeazi-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank">
+    <img align="center" alt="jeazi-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </a>
 </div>
 
 <br>
@@ -76,7 +111,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 14/03/2023
+| Última atualização: 15/03/2023
 </div>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
