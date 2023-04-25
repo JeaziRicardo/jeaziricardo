@@ -52,7 +52,7 @@
     <img align="center" alt="jeazi-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img align="center" alt="jeazi-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img align="center" alt="jeazi-GitHub" height="50" width="60" src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" />
   </a>
   <a href="https://redux.js.org/" target="_blank">
     <img align="center" alt="jeazi-Redux" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
