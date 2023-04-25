@@ -112,7 +112,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 15/03/2023
+| Última atualização: 25/04/2023
 </div>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
