@@ -26,7 +26,7 @@
 
 <div align="justify">
   Tenho 28 anos, sou sergipano, formado como Técnico em Segurança do Trabalho e me especializei na área de combate ao incêndio, mas comecei minha jornada na área de programação no final de 2021.  Aprendi <b><i>Desenvolvimento Web</i></b> e também tive a oportunidade de trabalhar como <b><i>Summer</i></b> no time de Currículo Front-end na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.<br/> 
-  Atualmente estou estudando <b>Java</b> e extremamente entusiasmado para continuar aprendendo e contribuindo para esta área incrível.<br/>
+  No momento, estou me dedicando aos estudos de <b>Java</b> e estou extremamente empolgado em prosseguir com meu aprendizado e contribuir nesse área incrível.<br/>
   😉✌️
 </div>
 
