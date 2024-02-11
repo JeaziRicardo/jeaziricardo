@@ -25,8 +25,8 @@
 ## Sobre 🚀
 
 <div align="justify">
-  Tenho 28 anos, sou sergipano, formado como Técnico em Segurança do Trabalho e me especializei na área de combate ao incêndio, mas comecei minha jornada na área de programação no final de 2021.  Aprendi <b><i>Desenvolvimento Web</i></b> e também tive a oportunidade de trabalhar como <b><i>Summer</i></b> no time de Currículo Front-end na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.<br/> 
-  No momento, estou me dedicando aos estudos de <b>Java</b> e estou extremamente empolgado em prosseguir com meu aprendizado e contribuir nessa área incrível.<br/>
+  Tenho 29 anos, sou sergipano, formado como Técnico em Segurança do Trabalho e me especializei na área de combate ao incêndio, mas comecei minha jornada na área da programação no final de 2021.  Aprendi <b><i>Desenvolvimento Web</i></b> e também tive a oportunidade de trabalhar como <b><i>Summer</i></b> no time de Currículo Front-end na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.<br/> 
+  Atualmente, sou <b><i>Desenvolvedor Back-end</i></b> tranalhando com <b>C#</b>, <b>.Net</b> e <b>SQL Server</b> na <a href="https://site.atoscapital.com.br" target="_blank">AtosCapital</a>, onde atuo na criação de soluções eficientes e precisas para garantir a conciliação adequada de transações financeiras.<br/>
   😉✌️
 </div>
 
@@ -65,6 +65,12 @@
   </a>
   <br>
   <br>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank">
+    <img align="center" alt="jeazi-CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank">
+    <img align="center" alt="jeazi-CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" alt="jeazi-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
@@ -116,7 +122,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 25/04/2023
+| Última atualização: 11/02/2024
 </div>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
