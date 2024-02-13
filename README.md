@@ -69,7 +69,7 @@
     <img align="center" alt="jeazi-CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   </a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank">
-    <img align="center" alt="jeazi-CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+    <img align="center" alt="jeazi-CSharp" height="50" width="60" src="https://learn.microsoft.com/en-us/media/logos/logo_net.svg" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" alt="jeazi-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
