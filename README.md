@@ -122,7 +122,7 @@
 
 <br>
   
-  <a href="https://gitlab.com/JeaziRicardo">
+  <a href="https://gitlab.com/JeaziRicardo" target="_blank">
     <img src="./gitlab-contributions.png" alt="Contribuições GitLab">
   </a>
 
