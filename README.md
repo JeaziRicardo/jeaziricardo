@@ -119,9 +119,11 @@
   <div>
     Atualmente, as minhas maiores contribuições são em repositórios privados no <a href="https://gitlab.com/jeaziricardo" target="_blank">GitLab</a>.
   </div>
+
+<br>
   
   <a href="https://gitlab.com/JeaziRicardo">
-    <img src="gitlab-contributions.svg" alt="Contribuições GitLab">
+    <img src="./gitlab-contributions.png" alt="Contribuições GitLab">
   </a>
 
 </div>
