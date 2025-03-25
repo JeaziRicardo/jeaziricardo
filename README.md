@@ -112,6 +112,22 @@
 
 <br>
 
+<div>
+
+## Contribuições 📈
+
+  <div>
+    Atualmente, as minhas maiores contribuições são em repositórios privados no <a href="https://gitlab.com/jeaziricardo" target="_blank">GitLab</a>.
+  </div>
+  
+  <a href="https://gitlab.com/JeaziRicardo">
+    <img src="gitlab-contributions.svg" alt="Contribuições GitLab">
+  </a>
+
+</div>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeaziricardo/jeaziricardo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeaziricardo/jeaziricardo/output/github-contribution-grid-snake.svg">
@@ -122,7 +138,7 @@
 
 <div>
 | Créditos: <a href="https://github.com/jeaziricardo" target="_blank">Jeazi Ricardo</a> <br />
-| Última atualização: 11/02/2024
+| Última atualização: 24/03/2025
 </div>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
